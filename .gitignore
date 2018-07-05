@@ -50,3 +50,6 @@ Temporary Items
 target/
 .classpath
 .project
+
+/.idea/
+*.iml
